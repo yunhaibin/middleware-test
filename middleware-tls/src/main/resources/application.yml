@@ -1,0 +1,11 @@
+server:
+  port: 8001
+  servlet:
+    context-path:
+spring:
+  application:
+    name: middleware-tls
+
+logging:
+  level:
+    root: INFO
